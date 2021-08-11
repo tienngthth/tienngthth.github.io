@@ -2,14 +2,17 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
 Some information about you!
 
-### More Information
+### Hi there!
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm Tien (Katie) from Vietnam 🇻🇳. Nice to meet you 👋. 
+I'm a senior student at RMIT Vietnam, majoring in Software Engineering. 
+Hope you have some fun visiting by ✅.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tiennguyenkit@gmail.com](mailto:tiennguyenkit@gmail.com)
